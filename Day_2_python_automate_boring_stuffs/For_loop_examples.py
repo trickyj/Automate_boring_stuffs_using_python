@@ -4,3 +4,7 @@ fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     if 'r' in fruit:
         print(fruit)
+
+
+for index in range(6):
+    print(index)
